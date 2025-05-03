@@ -4,7 +4,6 @@
 
 ### 🚀 Project Name (for fun & flex):
 **Project: Neural Doppelgänger**  
-Or... **AI Parasite X**. You pick the aesthetic — sci-fi, hacker-core, or mysterious researcher mode 😎
 AI Mind Parasite is a hyper-personalized cognitive assistant designed to evolve with its user over time — almost like a digital twin that mimics how you think, speak, and decide. Unlike generic chatbots, this AI doesn’t just answer questions — it passively observes your digital interactions (texts, emails, posts) and gradually builds a model of your unique cognitive style. As it learns, it begins to sound like you, reason like you, and eventually anticipate your decisions or suggest how you would likely respond in any given scenario.
 
 At the core is a passive learning agent that quietly builds a graph of your language, emotional tone, and decision history. This happens through lightweight on-device monitoring or secure, opt-in syncing of your digital footprints. The AI is trained to be privacy-aware, using local storage or user-controlled encrypted backups. As it accumulates data, it fine-tunes a model to match your voice — not just in text, but also in thought flow.
